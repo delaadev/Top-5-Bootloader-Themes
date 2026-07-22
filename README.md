@@ -88,7 +88,3 @@ If you like **ChrisTitusTech Top 5 Bootloader Themes** please star, follow or tw
 [![GitHub followers](https://img.shields.io/github/followers/ChrisTitusTech?style=social)](https://github.com/ChrisTitusTech)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FChrisTitusTech%2FTop-5-Bootloader-Themes)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FChrisTitusTech%2FTop-5-Bootloader-Themes)
 
-🙏 Acknowledgements
--------------------
-
-There is no obligation, but follow me ([TangoMan75](https://github.com/TangoMan75)) on GitHub and star some cool open source projects you like, it helps a lot. Thanks.
